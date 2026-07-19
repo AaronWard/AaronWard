@@ -190,11 +190,12 @@
 <text x="448" y="206" font-size="14"><tspan fill="#eac75a" font-weight="700">Host</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">github.com/AaronWard</tspan></text>
 <text x="448" y="246" font-size="14"><tspan fill="#eac75a" font-weight="700">Uptime</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">8 years, 18 repos</tspan></text>
 <text x="448" y="266" font-size="14"><tspan fill="#eac75a" font-weight="700">Packages</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">18 (public), 381 (starred)</tspan></text>
-  <text x="448" y="226" font-size="14"><tspan fill="#eac75a" font-weight="700">Languages</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">Python · Javascript (mostly)</tspan></text>
-<text x="448" y="346" font-size="14"><tspan fill="#eac75a" font-weight="700">Focus</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">Machine Learning · Data Science · LLMs/Agents</tspan></text>
 <text x="448" y="366" font-size="14"><tspan fill="#eac75a" font-weight="700">Network</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">102 followers · 54 following</tspan></text>
-<text x="448" y="386" font-size="14"><tspan fill="#eac75a" font-weight="700">Status</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">working from home</tspan></text>
+<text x="448" y="226" font-size="14"><tspan fill="#eac75a" font-weight="700">Languages</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">Python · Javascript (mostly)</tspan></text>
+<text x="448" y="346" font-size="14"><tspan fill="#eac75a" font-weight="700">Focus</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">Machine Learning · Data Science · LLMs/Agents</tspan></text>
 <text x="448" y="186" font-size="14"><tspan fill="#eac75a" font-weight="700">OS</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">Arch btw</tspan></text>
+<text x="448" y="386" font-size="14"><tspan fill="#eac75a" font-weight="700">Status</tspan><tspan fill="#7d8590">: </tspan><tspan fill="#e6edf3">working from home</tspan></text>
+
   
 <rect x="448" y="412" width="30" height="15" fill="#1c2128"/>
 <rect x="478" y="412" width="30" height="15" fill="#f47067"/>
