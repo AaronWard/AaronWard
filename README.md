@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="./rice-banner.svg" alt="aaronward@github — neofetch" width="100%">
+  <img src="./rice-banner.svg" alt="aaronward@github — neofetch" width="150%">
 </div>
 
 <br>
