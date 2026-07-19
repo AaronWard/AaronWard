@@ -15,9 +15,8 @@
 <br>
 
 ```console
-aaronward@github ~ $ ls -1 ~/projects --sort=stars
+$ ls -1 ~/projects --sort=stars
 ```
-
 | | | |
 |:--|:--|:--|
 | **[generative-ai-workbook](https://github.com/AaronWard/generative-ai-workbook)** | central repository for all LLM development | `jupyter` |
