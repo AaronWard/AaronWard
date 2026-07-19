@@ -23,7 +23,7 @@ aaronward@github ~ $ ls -1 ~/projects --sort=stars
 | **[fastapi-model-deployment](https://github.com/AaronWard/fastapi-model-deployment)** | serving models behind FastAPI | `python` |
 | **[certificates](https://github.com/AaronWard/certificates)** | receipts for the online learning | `—` |
 
-<br>
+<!-- <br>
 
 ```console
 aaronward@github ~ $ cat /etc/stack
@@ -35,19 +35,8 @@ aaronward@github ~ $ cat /etc/stack
   <img src="https://img.shields.io/badge/jupyter-eac75a?style=flat-square&labelColor=0e1116&color=0e1116&logo=jupyter&logoColor=eac75a">
   <img src="https://img.shields.io/badge/fastapi-eac75a?style=flat-square&labelColor=0e1116&color=0e1116&logo=fastapi&logoColor=eac75a">
   <img src="https://img.shields.io/badge/docker-eac75a?style=flat-square&labelColor=0e1116&color=0e1116&logo=docker&logoColor=eac75a">
-  <img src="https://img.shields.io/badge/postgres-eac75a?style=flat-square&labelColor=0e1116&color=0e1116&logo=postgresql&logoColor=eac75a">
-  <img src="https://img.shields.io/badge/neovim-eac75a?style=flat-square&labelColor=0e1116&color=0e1116&logo=neovim&logoColor=eac75a">
   <img src="https://img.shields.io/badge/arch_btw-eac75a?style=flat-square&labelColor=0e1116&color=0e1116&logo=archlinux&logoColor=eac75a">
 </p>
-
-<br>
-
-```console
-aaronward@github ~ $ systemctl status --user
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=AaronWard&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=eac75a&text_color=7d8590&icon_color=f5dd90&ring_color=eac75a" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronWard&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=eac75a&text_color=7d8590" width="40%">
 
 <br>
 
@@ -55,6 +44,4 @@ aaronward@github ~ $ systemctl status --user
 aaronward@github ~ $ whois --contact
 ```
 
-[`github`](https://github.com/AaronWard) · [`linkedin`](https://linkedin.com/in/) · [`site`](https://) · [`mail`](mailto:)
-
-<sub>`░▒▓` wallpaper, palette and dotfiles all lie. the commits don't. `▓▒░`</sub>
+[`github`](https://github.com/AaronWard) · [`linkedin`](https://linkedin.com/in/) · [`site`](https://) · [`mail`](mailto:) -->
