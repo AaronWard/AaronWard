@@ -15,13 +15,27 @@
 <br>
 
 ```console
-$ ls -1 ~/projects --sort=stars
+# Projects i'm 
+$ ls -1 ~/current_projects
+```
+| | | |
+|:--|:--|:--|
+| **[CV Forge]([https://github.com/AaronWard/scrapify](https://github.com/AaronWard/cv-forge))** | Self-hosted CV builder | `python` |
+| **[Juno](https://github.com/AaronWard/juno)** | Music generation using Local Models | `Docker` |
+| **[fallow4python](https://github.com/AaronWard/fallow4python)** | Python code maintainability tool for LLMs | `—` |
+
+```console
+$ ls -1 ~/old_projects
 ```
 | | | |
 |:--|:--|:--|
 | **[generative-ai-workbook](https://github.com/AaronWard/generative-ai-workbook)** | central repository for all LLM development | `jupyter` |
 | **[covidify](https://github.com/AaronWard/covidify)** | corona virus report + dataset generator — archived | `jupyter` |
-| **[scrapify](https://github.com/AaronWard/scrapify)** | multi-domain web scraping tool | `python` |
-| **[time-series-analysis](https://github.com/AaronWard/time-series-analysis)** | experiments with time series data | `jupyter` |
-| **[fastapi-model-deployment](https://github.com/AaronWard/fastapi-model-deployment)** | serving models behind FastAPI | `python` |
-| **[certificates](https://github.com/AaronWard/certificates)** | receipts for the online learning | `—` |
+
+
+```console
+$ ls -1 ~/certifications
+```
+| | | |
+|:--|:--|:--|
+| **[certificates](https://github.com/AaronWard/certificates)** | Certificates and qualifications | `—` |
