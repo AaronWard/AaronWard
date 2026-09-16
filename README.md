@@ -20,7 +20,7 @@ $ ls -1 ~/current_projects
 ```
 | | | |
 |:--|:--|:--|
-| **[CV Forge]([https://github.com/AaronWard/scrapify](https://github.com/AaronWard/cv-forge))** | Self-hosted CV builder | `python` |
+| **[CV-Forge](https://github.com/AaronWard/cv-forge)** | Self-hosted CV builder | `python` |
 | **[Juno](https://github.com/AaronWard/juno)** | Music generation using Local Models | `Docker` |
 | **[fallow4python](https://github.com/AaronWard/fallow4python)** | Python code maintainability tool for LLMs | `—` |
 
